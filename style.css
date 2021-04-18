@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+  overflow: hidden;
+}
+html,
+body {
+  width: auto;
+  height: auto;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.webgl {
+  width: 100%;
+  height: auto;
+}
